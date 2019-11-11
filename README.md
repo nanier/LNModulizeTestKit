@@ -22,7 +22,7 @@ pod 'LNModulizeTestKit'
 
 ## Author
 
-nanier, lina@sogou-inc.com
+nanier
 
 ## License
 
