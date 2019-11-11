@@ -1,0 +1,6 @@
+framework module LNModulizeTestKit {
+  umbrella header "LNModulizeTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

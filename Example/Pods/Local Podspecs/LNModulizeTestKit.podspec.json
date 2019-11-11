@@ -1,0 +1,22 @@
+{
+  "name": "LNModulizeTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of LNModulizeTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nanier/LNModulizeTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nanier": "lina571988@163.com"
+  },
+  "source": {
+    "git": "https://github.com/nanier/LNModulizeTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LNModulizeTestKit/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LNModulizeTestKit (0.1.0)
+
+DEPENDENCIES:
+  - LNModulizeTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  LNModulizeTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LNModulizeTestKit: 5e1307fc0ca8f53960fd33f01db33e95529dbf4e
+
+PODFILE CHECKSUM: df8caa0d2434340a937c5e2c24c59f95f7bcad4e
+
+COCOAPODS: 1.8.0.beta.2
